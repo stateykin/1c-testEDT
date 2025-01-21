@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5b06ca3c-a0fd-4d44-a914-ae6d2f19feb7">
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="43d10ece-0a92-4d49-8918-47ee336e60a2">
   <name>Конфигурация</name>
-  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="96f166e2-ab46-4a6b-bc7f-07339bbe9fcb"/>
-  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="40f0a824-d729-4eaa-b19e-31c695430d96"/>
-  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="6ed51e13-3128-41f7-94da-4098121a28cb"/>
-  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="657f229f-4452-4dc8-8eb5-9ae5fcefcdf9"/>
-  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="536fc89c-285c-42c6-b37e-15fc42878c8a"/>
-  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="758fb246-244b-4299-84aa-1ce053dc3d03"/>
-  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="2b7c26b8-e92e-40f5-8611-28ab83007eac"/>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="f518fc8c-3277-42bd-8ece-310661e89297"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="302f4bbb-01c2-4ed7-b089-716ebec85119"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="1896ac5e-4f41-43bd-8200-da63f758bb6f"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="03f04319-d86e-47b6-838b-cd4592fd41a0"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="f15069b1-53a8-4d92-9991-f6055461b548"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="a1ee5dc5-8e81-4cf6-84b5-7b884faa6753"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="ca6a3be2-b5d8-470e-a0a5-e15ab5cee5ff"/>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
@@ -26,7 +26,7 @@
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
   <compatibilityMode>8.3.25</compatibilityMode>
-  <languages uuid="a16490f6-a30c-4903-9fa3-2390e24d8f08">
+  <languages uuid="104eb7af-879a-4316-99b6-55e6f6fe485d">
     <name>Русский</name>
     <synonym>
       <key>ru</key>
